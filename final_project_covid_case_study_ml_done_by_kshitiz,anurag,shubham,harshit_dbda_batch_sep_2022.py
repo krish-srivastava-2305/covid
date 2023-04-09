@@ -642,5 +642,6 @@ reg.predict([[185]])
 reg.predict([[189]])
 
 reg.predict([[194]])
+#badhia hai!
 
 # here also problem of overfittinng is ocuuring we have use this model when your data is purely non linear in nature
